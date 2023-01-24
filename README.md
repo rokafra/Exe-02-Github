@@ -1,2 +1,9 @@
 # Exe-02-Github
-Repositório criado para realizar o segundo exercício sobre GitHub.
+Repositório para executar o segundo exercício sobre GitHub. <br/>
+Arquivo de texto <br/>
+```ONLINE``` <br/>
+Escrito por <br/>
+```OFFLINE``` <br/>
+Rodrigo Franco <br/>
+```OFFLINE``` <br/>
+
